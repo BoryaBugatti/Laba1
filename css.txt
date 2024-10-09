@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    background: #fefefe;
+  }
+  table {
+    border-collapse: collapse; 
+    line-height: 1.1;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background:  radial-gradient(farthest-corner at 50% 50%, white, white);
+    color: #0C213B;
+  }
+  caption{
+    font-size: 20px;
+    font-style: italic;
+  }
+  th {
+    padding: 10px; 
+    border: 1px solid #f7fbfdcf;
+    background-color: rgb(207, 224, 238);
+  }
+  td {
+    font-size: 0.8em;
+    padding: 5px 7px;
+    border: 1px solid #A9E2CC;
+  }
+  .first {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(207, 224, 238);
+  }
+  .second{
+    background-color: rgba(249, 122, 122, 0.991);
+  }
+  .third{
+    background-color: rgba(95, 163, 246, 0.991);
+  }
+  .fourth{
+    background-color: rgb(124, 248, 90);
+  }
+  .fifth{
+    background-color: yellow;
+  }
+  .s1 {
+    width: 10px; 
+    height: 10px;
+    border: 1px solid;
+    background-color: rgba(249, 122, 122, 0.991);
+}
+.s2 {
+    width: 10px; 
+    height: 10px;
+    border: 1px solid;
+    background-color: rgba(95, 163, 246, 0.991);
+}
+.s3 {
+    width: 10px; 
+    height: 10px;
+    border: 1px solid;
+    background-color: rgb(124, 248, 90);
+}
+.s4 {
+    width: 10px; 
+    height: 10px;
+    border: 1px solid;
+    background-color: yellow;
+}
+
+.sixth {
+    display: flex;
+    align-items: center;
+}
+.seventh{
+    display: flex;
+    align-items: center;
+}
+.eighth{
+    display: flex;
+    align-items: center;
+}
+.ninth{
+    display: flex;
+    align-items: center;
+}
+.ss{
+    margin-left: 40px;
+    font-style: normal;
+}
